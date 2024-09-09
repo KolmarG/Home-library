@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Домашняя библиотека</string>
+    <string name="enter_your_email_and_password_to_log_in">Введи почту и пароль чтобы войти</string>
+    <string name="register">Регистрация</string>
+    <string name="log_in">Войти</string>
+    <string name="password">Пароль</string>
+    <string name="email">Почта</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="story">Это приложение было разработано Гилем Николаем Михайловичем - студентом группы ИКБО–13-22 в 2024 году в рамках курсовой работы по дисциплине "Разработка мобильных приложений". Это приложение представляет собой приложение для чтения книг в формате pdf</string>
+    <string name="about_sending">Для того чтобы получить возможность добавлять новые книги в формате pdf необходимо написать на почту, в ней надо указать, что вы хотите добавить, имя пользователя и почту привязанную к аккаунту этого приложения</string>
+    <string name="collapsed_text">collapsed_text</string>
+    <string name="instruction">Приложением очень просто пользоваться, всего лишь нажмите на название интересующей вас книги и можете уже читать</string>
+</resources>
