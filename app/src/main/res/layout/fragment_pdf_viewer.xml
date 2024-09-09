@@ -20,13 +20,14 @@
         android:id="@+id/backButton"
         android:layout_width="56dp"
         android:layout_height="56dp"
+        android:layout_alignParentTop="true"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
+        android:layout_marginTop="655dp"
         android:layout_marginRight="20dp"
         android:layout_marginBottom="20dp"
         android:background="@drawable/icons8_home"
-
-        />
+        android:visibility="gone" />
 
     <Button
         android:id="@+id/prevButton"
@@ -44,12 +45,12 @@
         android:id="@+id/nextButton"
         android:layout_width="56dp"
         android:layout_height="56dp"
+        android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
+        android:layout_marginStart="100dp"
         android:layout_marginEnd="20dp"
         android:layout_marginBottom="20dp"
-        android:layout_marginStart="100dp"
-
         android:background="@drawable/next_right_arrow_svgrepo_com"
+        android:alpha="1"/>
 
-        />
 </RelativeLayout>
